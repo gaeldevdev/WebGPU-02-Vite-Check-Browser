@@ -1,0 +1,16 @@
+{
+  "name": "webgpu01",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "typescript": "^4.9.3",
+    "@webgpu/types": "^0.1.21",
+    "vite": "^4.1.0"
+  }
+}
