@@ -1,12 +1,12 @@
 # WebGPU + Vite + TypeScript : Check Browser Compatibility
 
+## Example of [Vite](https://vitejs.dev/guide/)  + WebGPU + TypeScript
 Checks Browser Compatibility
-Example of [Vite](https://vitejs.dev/guide/)  + WebGPU + Typescript
 
 ## Run on Chrome Canary
 Download Chrome Canary https://www.google.com/chrome/canary/
 
-And enable WebGPU by typing chrome://flags/#enable-unsafe-webgpu in the address bar
+And enable WebGPU by typing `chrome://flags/#enable-unsafe-webgpu` in the address bar
 
 ## Run the development version
 For the development version, run the following command int the main directory:
